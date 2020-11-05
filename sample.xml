@@ -1,0 +1,21 @@
+<feed xml:lang='en'>
+    <title>NPBFX</title>
+    <subtitle lang='en'>Programming challenges</subtitle>
+    <link rel='alternate' type='text/html' href='http://npbfx.com/' />
+    <updated>2020-10-28T12:00:00</updated>
+	<lvl1>
+		<lvl2 />
+		<lvl2 />
+		<lvl2 />
+		<lvl2>
+			<lvl3>
+				<lvl4></lvl4>
+			</lvl3>
+			<lvl3>
+				<lvl4>
+					<lvl5 />
+				</lvl4>
+			</lvl3>
+		</lvl2>
+	</lvl1>
+</feed>
